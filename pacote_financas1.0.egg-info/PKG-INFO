@@ -1,0 +1,29 @@
+Metadata-Version: 2.1
+Name: pacote_financas1.0
+Version: 0.0.2
+Summary: pequeno programa para verificar tipos de investimentos
+Home-page: https://github.com/ilheuilha/package-template-ilheuilha.git
+Author: Walter Junior
+Author-email: teste@teste.com
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Requires-Dist: pandas
+Requires-Dist: matplotlib
+
+# package_name
+
+Description. 
+The package package_financas is used to:
+	- Pandas
+	- matplotlib
+
+## Installation
+
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_financas
+
+```bash
+pip install financas
+```
+
+## Author
+Ilheuilha

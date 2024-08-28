@@ -1,0 +1,10 @@
+README.md
+setup.py
+package_financas/__init__.py
+package_financas/modulo_financas/__init__.py
+package_financas/modulo_financas/financas.py
+pacote_financas1.0.egg-info/PKG-INFO
+pacote_financas1.0.egg-info/SOURCES.txt
+pacote_financas1.0.egg-info/dependency_links.txt
+pacote_financas1.0.egg-info/requires.txt
+pacote_financas1.0.egg-info/top_level.txt

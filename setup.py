@@ -9,9 +9,9 @@ with open("requirements.txt") as f:
 
 
 setup(
-    name="package_python",
-    version="0.0.1",
-    author="ilheuilha",
+    name="pacote_financas1.0",
+    version="0.0.2",
+    author="Walter Junior",
     author_email="teste@teste.com",
     description="pequeno programa para verificar tipos de investimentos",
     long_description=page_description,
